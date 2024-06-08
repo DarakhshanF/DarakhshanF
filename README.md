@@ -76,9 +76,9 @@ Here are some of the cool projects I've been working on:
 
 ## 📫 Connect with Me
 
-[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:darakhshanfazail@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/darakhshan-fazail)
-[![Twitter](https://img.shields.io/badge/Twitter-Connect-blue)](https://twitter.com/dfazail)
+[![Email](https://img.shields.io/badge/Email-Get_In_Touch-red)](mailto:darakhshanfazail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darakhshan--Fazail-blue)](https://www.linkedin.com/in/darakhshan-fazail)
+[![Twitter](https://img.shields.io/badge/Twitter-Darakhshan--Fazail-blue)](https://twitter.com/dfazail)
 
 ## 📝 Latest Blog Posts
 
