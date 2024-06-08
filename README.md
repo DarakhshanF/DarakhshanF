@@ -73,6 +73,8 @@ Welcome to my corner of GitHub! I'm a data science wizard who loves turning data
   ![Version Control](https://img.shields.io/badge/Version_Control-0078D4?style=flat&logo=git&logoColor=white)
 
 
+<br>
+
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
