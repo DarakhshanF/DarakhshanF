@@ -1,6 +1,8 @@
 # Hi there, I'm Darakhshan Fazail 👋
 
-**Data Scientist | Python Enthusiast | Cloud Whisperer**
+**Data Scientist | Python Enthusiast | AWS Cloud Expert**
+
+![Your GIF](https://github.com/DarakhshanF/DarakhshanF/blob/main/your-gif-file.gif) 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DarakhshanF&color=blue)
 
