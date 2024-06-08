@@ -7,8 +7,8 @@
 Welcome to my corner of GitHub! I'm a data science wizard who loves turning data into stories, insights, and predictions. When I'm not wrangling data, you can find me exploring the latest tech trends, hiking trails, or experimenting with new recipes in the kitchen.
 
 [![Follow](https://img.shields.io/github/followers/DarakhshanF?label=Follow&style=social)](https://github.com/DarakhshanF)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darakhshan Fazail-blue)](https://www.linkedin.com/in/darakhshanfazail)
-[![Email](https://img.shields.io/badge/Email-Drop an Email-red)](mailto:darakhshanfazail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Darakhsha-Fazail-blue)](https://www.linkedin.com/in/darakhshanfazail)
+[![Email](https://img.shields.io/badge/Email-Drop-an-Email-red)](mailto:darakhshanfazail@gmail.com)
 
 
 ## 🚀 About Me
