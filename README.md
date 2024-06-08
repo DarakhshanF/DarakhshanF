@@ -10,7 +10,6 @@ Welcome to my corner of GitHub! I'm a data science wizard who loves turning data
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/darakhshanfazail)
 [![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:darakhshanfazail@gmail.com)
 
-![Interactive](https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif)
 
 ## 🚀 About Me
 
