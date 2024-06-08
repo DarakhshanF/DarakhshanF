@@ -21,15 +21,57 @@ Welcome to my corner of GitHub! I'm a data science wizard who loves turning data
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages**: Python, JavaScript, R, SQL
-- **Web Frameworks**: Flask, Django, Vue.js
-- **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn
-- **Machine Learning**: Scikit-Learn, TensorFlow, Keras, PyTorch
-- **Big Data**: Hadoop, Spark
-- **Cloud Platforms**: AWS (S3, EC2, Lambda, RDS, EMR)
-- **DevOps**: Docker, Kubernetes, Jenkins, GitHub Actions, GitHub CI/CD
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **Tools**: VSCode, GitHub, Version Control
+- **Languages**: 
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white)
+  ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
+
+- **Frameworks**: 
+  ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+  ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+  ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
+
+- **Data Analysis & Visualization**: 
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+  ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+  ![Matplotlib](https://img.shields.io/badge/Matplotlib-ff69b4?style=flat&logo=plotly&logoColor=white)
+  ![Seaborn](https://img.shields.io/badge/Seaborn-404040?style=flat&logo=seaborn&logoColor=white)
+
+- **Machine Learning**: 
+  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+  ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+
+- **Big Data**: 
+  ![Hadoop](https://img.shields.io/badge/Hadoop-66CCFF?style=flat&logo=apache-hadoop&logoColor=white)
+  ![Spark](https://img.shields.io/badge/Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white)
+
+- **Cloud Platforms**: 
+  ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+  ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white)
+  ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white)
+  ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
+  ![AWS EMR](https://img.shields.io/badge/AWS_EMR-FF9900?style=flat&logo=amazon-emr&logoColor=white)
+
+- **DevOps**: 
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+  ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+  ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
+  ![GitHub CI/CD](https://img.shields.io/badge/GitHub_CI%2FCD-2088FF?style=flat&logo=github-actions&logoColor=white)
+
+- **Databases**: 
+  ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
+- **Tools**: 
+  ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+  ![Version Control](https://img.shields.io/badge/Version_Control-0078D4?style=flat&logo=git&logoColor=white)
+
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -48,13 +90,6 @@ Welcome to my corner of GitHub! I'm a data science wizard who loves turning data
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
-### Knowledge of:
-- **Languages**: ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white) ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=sqlite&logoColor=white)
-- **Frameworks**: ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white)
-- **Cloud Platforms**: ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white) ![AWS Lambda](https://img.shields.io/badge/AWS_Lambda-FF9900?style=flat&logo=aws-lambda&logoColor=white) ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat&logo=amazon-ec2&logoColor=white) ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazon-s3&logoColor=white) ![AWS EMR](https://img.shields.io/badge/AWS_EMR-FF9900?style=flat&logo=amazon-emr&logoColor=white)
-- **DevOps**: ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white) ![GitHub CI/CD](https://img.shields.io/badge/GitHub_CI/CD-2088FF?style=flat&logo=github-actions&logoColor=white)
-- **Databases**: ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-- **Tools**: ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white) ![Version Control](https://img.shields.io/badge/Version_Control-0078D4?style=flat&logo=git&logoColor=white)
 
 ### Deployment platforms:
 - GitHub Pages, Heroku, AWS
