@@ -2,12 +2,15 @@
 
 **Data Scientist | Python Enthusiast | Cloud Whisperer**
 
-![Wave](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
-
 ![Visitor Count](https://komarev.com/ghpvc/?username=DarakhshanF&color=blue)
 
-
 Welcome to my corner of GitHub! I'm a data science wizard who loves turning data into stories, insights, and predictions. When I'm not wrangling data, you can find me exploring the latest tech trends, hiking trails, or experimenting with new recipes in the kitchen.
+
+[![Follow](https://img.shields.io/github/followers/DarakhshanF?label=Follow&style=social)](https://github.com/DarakhshanF)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/darakhshan-fazail)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:darakhshanfazail@gmail.com)
+
+![Interactive](https://media.giphy.com/media/l4FGuhL4U2WyjdkaY/giphy.gif)
 
 ## 🚀 About Me
 
@@ -17,13 +20,32 @@ Welcome to my corner of GitHub! I'm a data science wizard who loves turning data
 
 ## 🛠️ Technologies & Tools
 
-- **Programming Languages**: Python, R, SQL
+- **Programming Languages**: Python, JavaScript, R, SQL
+- **Web Frameworks**: Flask, Django, Vue.js
 - **Data Analysis & Visualization**: Pandas, NumPy, Matplotlib, Seaborn
 - **Machine Learning**: Scikit-Learn, TensorFlow, Keras, PyTorch
 - **Big Data**: Hadoop, Spark
-- **Cloud Platforms**: AWS (S3, EC2, Lambda, RDS), Google Cloud
-- **DevOps**: Docker, Kubernetes, Jenkins
+- **Cloud Platforms**: AWS (S3, EC2, Lambda, RDS, EMR)
+- **DevOps**: Docker, Kubernetes, Jenkins, GitHub Actions, GitHub CI/CD
 - **Databases**: MySQL, PostgreSQL, MongoDB
+- **Tools**: VSCode, GitHub, Version Control
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_Lambda-FF9900?style=for-the-badge&logo=aws-lambda&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS_EMR-FF9900?style=for-the-badge&logo=amazon-emr&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Pipeline-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Version_Control-0078D4?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</p>
 
 ## 🌟 Fun Facts
 
@@ -44,9 +66,9 @@ Here are some of the cool projects I've been working on:
 
 ## 📫 Connect with Me
 
-- **Email**: [darakhshanfazail@gmail.com](mailto:darakhshanfazail@gmail.com)
-- **LinkedIn**: [linkedin.com/in/darakhshan-fazail](https://www.linkedin.com/in/darakhshan-fazail)
-- **Twitter**: [@dfazail](https://twitter.com/dfazail)
+[![Email](https://img.shields.io/badge/Email-Contact-red)](mailto:darakhshanfazail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/darakhshan-fazail)
+[![Twitter](https://img.shields.io/badge/Twitter-Connect-blue)](https://twitter.com/dfazail)
 
 ## 📝 Latest Blog Posts
 
