@@ -1,4 +1,4 @@
-# Hi there, I'm Darakhshan Fazail 👋
+# Hi, I'm Darakhshan Fazail 👋
 
 **Data Scientist | Python Enthusiast | AWS Cloud Expert**
 
