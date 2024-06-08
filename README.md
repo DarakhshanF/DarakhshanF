@@ -2,7 +2,7 @@
 
 **Data Scientist | Python Enthusiast | AWS Cloud Expert**
 
-![Your GIF](https://github.com/DarakhshanF/DarakhshanF/blob/main/your-gif-file.gif) 
+![Your GIF](https://github.com/DarakhshanF/DarakhshanF/blob/main/GitHub_Readme.mp4) 
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=DarakhshanF&color=blue)
 
